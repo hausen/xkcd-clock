@@ -15,6 +15,11 @@ Clone this repository to a directory that your web server can access and point y
 
 This clock has been tested in Chrome 32 and Firefox 26, but may work in other versions/browsers. If it doesn't work for you, please make any necessary changes and submit a pull request.
 
+License
+-------
+
+Same as the original: [Creative Commons Attribution-NonCommercial 2.5 License](http://creativecommons.org/licenses/by-nc/2.5/).
+
 Credits
 -------
 
