@@ -11,7 +11,7 @@ Why?
 How to use?
 -----------
 
-Clone this repository to a directory that your web server can access and point your browser to http://yourdomain/path/to/directory/xkcd-clock.html .
+Clone this repository to a directory that your web server can access and point your browser to `http://yourdomain/path/to/directory/xkcd-clock.html`. Or view the online version [here](//rawgit.com/hausen/xkcd-clock/master/xkcd-clock.html).
 
 This clock has been tested in Chrome 32 and Firefox 26, but may work in other versions/browsers. If it doesn't work for you, please make any necessary changes and submit a pull request.
 
